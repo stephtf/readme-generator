@@ -1,59 +1,14 @@
 ## Project Title
-  
-i'm so done with this
-
-![GitHub license](https://img.shields.io/badge/License-FDL%20v1.3-blue.svg)
+Readme Generator
 
 ## Description
+This project allows the user to very easily create a readme file. The user navigates to terminal an then enters in node index.js to run the file. Then the user is prompted with questions about the project. After all prompts have been answered, a new readme file is created with the user's inputs. 
 
-forever
-
-
-
-## Table of Contents 
-
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
-
-* [License](#license)
-
-
-* [Questions](#questions)
-
-## Installation 
-
-To install necessary dependencies, run the following command:
-
-```
-no more
-```
-
-## Usage 
-please
-
-
-## License
-
-This project is licensed under the GNU FDL v1.3 license.
-
-
-## Contributing 
-stop
-
-## Tests 
-To run tests, run the following command:
-
-```
-no
-```
-
+## Walkthrough Video 
+https://watch.screencastify.com/v/Y6GDEYV3TIFA7ueKC168
 
 ## Questions 
 
-If you have any questions about the repo, open an issue or contact me directly at ok@gmail.com. You can find more of my work at [stop](https://github.com/stop/).
+If you have any questions about the repo, open an issue or contact me directly at stfajardo@gmail.com. You can find more of my work at [stephtf](https://github.com/stephtf/).
+
+
