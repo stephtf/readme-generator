@@ -1,10 +1,10 @@
 ## Project Title
   
-coco
+Readme GeneraTOR
 
 ## Description
 
-thank you
+this project helps users generate a readme
 
 ## Table of Contents 
 
@@ -24,12 +24,21 @@ thank you
 To install necessary dependencies, run the following command:
 
 ```
-undefined
+you can do this by doing node i inquirer
 ```
 
-
 ## Usage 
+usage would be X
+
+## Contributing 
+contribute by writing X
+
+## Tests 
+To run tests, run the following command:
+
+```
 undefined
+```
 
 ## License 
 ## License
@@ -42,18 +51,6 @@ This project is licensed under the undefined license.
 
 ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
 
-
-## Contributing 
-undefined
-
-
-## Tests 
-
-To run tests, run the following command:
-
-```
-undefined
-```
 
 ## Questions 
 

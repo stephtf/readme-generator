@@ -34,7 +34,22 @@ const questions = [
     type: 'input', 
     message: 'Provide information about running tests',
     name: 'test',
-  }
+  }, 
+  {
+    type: 'list', 
+    choices: ['choice A', 'choice B', 'choice c', 'choice d'],
+    name: 'license',
+  }, 
+  {
+    type: 'input', 
+    message: 'What is your email address?',
+    name: 'email',
+  }, 
+  {
+    type: 'input', 
+    message: 'What is your github username?',
+    name: 'github',
+  }, 
 ]; 
 
 // TODO: Create a function to write README file
@@ -50,6 +65,10 @@ inquirer
       installation: `${data.installation}`,
       usage: `${data.usage}`,
       contributing: `${data.contributing}`,
+      test: `${data.test}`,
+      license: `${data.license}`,
+      email: `${data.email}`,
+      github: `${data.github}`,
     })
     // generateMarkdown(data)
     fs.writeFile('README.md', markdown, (err) => {
