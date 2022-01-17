@@ -1,24 +1,24 @@
 ## Project Title
   
-coco
+test
 
 ## Description
 
-nana
+test
 
 ## Table of Contents 
 
-* [Installation](#installation)
+* [Installation](# Installation)
 
-* [Usage](#usage)
+* [Usage](# Usage)
 
-* [Contributing](#contributing)
+* [Contributing](# Contributing)
 
-* [Tests](#tests)
+* [Tests](# Tests)
 
-* [License](#license)
+* [License](# License)
 
-* [Questions](#questions)
+* [Questions](# Questions)
 
 
 ## Installation 
@@ -26,20 +26,20 @@ nana
 To install necessary dependencies, run the following command:
 
 ```
-coco
+test
 ```
 
 ## Usage 
-nana
+test
 
 ## Contributing 
-coco
+test
 
 ## Tests 
 To run tests, run the following command:
 
 ```
-nana
+test
 ```
 
 
@@ -54,6 +54,6 @@ This project is licensed under the choice A license.
 [GitHub license](https://img.shields.io/badge/license-choice A-blue.svg)
 
 
-## Questions
+## Questions 
 
-If you have any questions about the repo, open an issue or contact me directly at coco@gmail.com. You can find more of my work at [nana](https://github.com/nana/).
+If you have any questions about the repo, open an issue or contact me directly at test. You can find more of my work at [test](https://github.com/test/).

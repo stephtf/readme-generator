@@ -43,17 +43,17 @@ ${data.description}
 
 ## Table of Contents 
 
-* [Installation](# Installation)
+* [Installation](#installation)
 
-* [Usage](# Usage)
+* [Usage](#usage)
 
-* [Contributing](# Contributing)
+* [Contributing](#contributing)
 
-* [Tests](# Tests)
+* [Tests](#tests)
 
-* [License](# License)
+* [License](#license)
 
-* [Questions](# Questions)
+* [Questions](#questions)
 
 
 ## Installation 
