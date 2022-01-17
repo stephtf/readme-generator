@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== 'None') {
-    return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
+    return `[GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
   }
   return '';
 }
@@ -43,15 +43,17 @@ ${data.description}
 
 ## Table of Contents 
 
-* [Installation](#installation)
+* [Installation](# Installation)
 
-* [Usage](#usage)
+* [Usage](# Usage)
 
-* [Contributing](#contributing)
+* [Contributing](# Contributing)
 
-* [Tests](#tests)
+* [Tests](# Tests)
 
-* [Questions](#questions)
+* [License](# License)
+
+* [Questions](# Questions)
 
 
 ## Installation 
@@ -75,7 +77,7 @@ To run tests, run the following command:
 ${data.test}
 \`\`\`
 
-## License 
+
 ${renderLicenseSection(data.license)}
 
 ${renderLicenseLink(data.license)}

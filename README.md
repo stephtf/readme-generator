@@ -1,10 +1,10 @@
 ## Project Title
   
-Readme GeneraTOR
+coco
 
 ## Description
 
-this project helps users generate a readme
+nana
 
 ## Table of Contents 
 
@@ -16,6 +16,8 @@ this project helps users generate a readme
 
 * [Tests](#tests)
 
+* [License](#license)
+
 * [Questions](#questions)
 
 
@@ -24,34 +26,34 @@ this project helps users generate a readme
 To install necessary dependencies, run the following command:
 
 ```
-you can do this by doing node i inquirer
+coco
 ```
 
 ## Usage 
-usage would be X
+nana
 
 ## Contributing 
-contribute by writing X
+coco
 
 ## Tests 
 To run tests, run the following command:
 
 ```
-undefined
+nana
 ```
 
-## License 
+
 ## License
 
-This project is licensed under the undefined license.
+This project is licensed under the choice A license.
 
 
 * [License](#license)
 
 
-![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
+[GitHub license](https://img.shields.io/badge/license-choice A-blue.svg)
 
 
-## Questions 
+## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [undefined](https://github.com/undefined/).
+If you have any questions about the repo, open an issue or contact me directly at coco@gmail.com. You can find more of my work at [nana](https://github.com/nana/).
