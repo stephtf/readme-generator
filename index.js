@@ -37,7 +37,7 @@ const questions = [
   }, 
   {
     type: 'list', 
-    choices: ['choice A', 'choice B', 'choice c', 'choice d'],
+    choices: ['Apache 2.0','BSD 3-Clause', 'GNU GPL v3', 'GNU GPL v2', 'GNU AGPL v3', 'GNU LGPL v3', 'GNU FDL v1.3', 'IBM Public License Version 1.0'],
     name: 'license',
   }, 
   {

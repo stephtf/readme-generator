@@ -1,59 +1,59 @@
 ## Project Title
   
-test
+i'm so done with this
+
+![GitHub license](https://img.shields.io/badge/License-FDL%20v1.3-blue.svg)
 
 ## Description
 
-test
+forever
+
+
 
 ## Table of Contents 
 
-* [Installation](# Installation)
+* [Installation](#installation)
 
-* [Usage](# Usage)
+* [Usage](#usage)
 
-* [Contributing](# Contributing)
+* [Contributing](#contributing)
 
-* [Tests](# Tests)
+* [Tests](#tests)
 
-* [License](# License)
 
-* [Questions](# Questions)
+* [License](#license)
 
+
+* [Questions](#questions)
 
 ## Installation 
 
 To install necessary dependencies, run the following command:
 
 ```
-test
+no more
 ```
 
 ## Usage 
-test
+please
+
+
+## License
+
+This project is licensed under the GNU FDL v1.3 license.
+
 
 ## Contributing 
-test
+stop
 
 ## Tests 
 To run tests, run the following command:
 
 ```
-test
+no
 ```
-
-
-## License
-
-This project is licensed under the choice A license.
-
-
-* [License](#license)
-
-
-[GitHub license](https://img.shields.io/badge/license-choice A-blue.svg)
 
 
 ## Questions 
 
-If you have any questions about the repo, open an issue or contact me directly at test. You can find more of my work at [test](https://github.com/test/).
+If you have any questions about the repo, open an issue or contact me directly at ok@gmail.com. You can find more of my work at [stop](https://github.com/stop/).
