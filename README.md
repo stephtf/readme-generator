@@ -12,7 +12,7 @@ inquirer
 ```
 
 ## Walkthrough Video 
-https://watch.screencastify.com/v/Y6GDEYV3TIFA7ueKC168
+https://youtu.be/J_OvcWba53M
 
 ## Questions 
 
